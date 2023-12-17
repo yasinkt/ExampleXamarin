@@ -1,0 +1,16 @@
+/Users/kadiraltintop/Projects/ExampleXamarin/ExampleXamarin/ExampleXamarin/bin/Debug/netstandard2.0/ExampleXamarin.deps.json
+/Users/kadiraltintop/Projects/ExampleXamarin/ExampleXamarin/ExampleXamarin/bin/Debug/netstandard2.0/ExampleXamarin.dll
+/Users/kadiraltintop/Projects/ExampleXamarin/ExampleXamarin/ExampleXamarin/bin/Debug/netstandard2.0/ref/ExampleXamarin.dll
+/Users/kadiraltintop/Projects/ExampleXamarin/ExampleXamarin/ExampleXamarin/bin/Debug/netstandard2.0/ExampleXamarin.pdb
+/Users/kadiraltintop/Projects/ExampleXamarin/ExampleXamarin/ExampleXamarin/obj/Debug/netstandard2.0/ExampleXamarin.csproj.AssemblyReference.cache
+/Users/kadiraltintop/Projects/ExampleXamarin/ExampleXamarin/ExampleXamarin/obj/Debug/netstandard2.0/ExampleXamarin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadiraltintop/Projects/ExampleXamarin/ExampleXamarin/ExampleXamarin/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/kadiraltintop/Projects/ExampleXamarin/ExampleXamarin/ExampleXamarin/obj/Debug/netstandard2.0/Login.xaml.g.cs
+/Users/kadiraltintop/Projects/ExampleXamarin/ExampleXamarin/ExampleXamarin/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/kadiraltintop/Projects/ExampleXamarin/ExampleXamarin/ExampleXamarin/obj/Debug/netstandard2.0/ExampleXamarin.AssemblyInfoInputs.cache
+/Users/kadiraltintop/Projects/ExampleXamarin/ExampleXamarin/ExampleXamarin/obj/Debug/netstandard2.0/ExampleXamarin.AssemblyInfo.cs
+/Users/kadiraltintop/Projects/ExampleXamarin/ExampleXamarin/ExampleXamarin/obj/Debug/netstandard2.0/ExampleXamarin.csproj.CoreCompileInputs.cache
+/Users/kadiraltintop/Projects/ExampleXamarin/ExampleXamarin/ExampleXamarin/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/kadiraltintop/Projects/ExampleXamarin/ExampleXamarin/ExampleXamarin/obj/Debug/netstandard2.0/ExampleXamarin.dll
+/Users/kadiraltintop/Projects/ExampleXamarin/ExampleXamarin/ExampleXamarin/obj/Debug/netstandard2.0/ref/ExampleXamarin.dll
+/Users/kadiraltintop/Projects/ExampleXamarin/ExampleXamarin/ExampleXamarin/obj/Debug/netstandard2.0/ExampleXamarin.pdb

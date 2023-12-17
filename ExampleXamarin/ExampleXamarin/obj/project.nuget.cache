@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "fugh3QFbstuvFs9qdrjn8gsKY44gDGwZDFFzl1ow+1XgFuKqCWR1BqtzYS2UFcy4KUqrz14WKE3R/WJD5L5h+Q==",
+  "success": true,
+  "projectFilePath": "/Users/kadiraltintop/Projects/ExampleXamarin/ExampleXamarin/ExampleXamarin/ExampleXamarin.csproj",
+  "expectedPackageFiles": [
+    "/Users/kadiraltintop/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/kadiraltintop/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/kadiraltintop/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/kadiraltintop/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/kadiraltintop/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

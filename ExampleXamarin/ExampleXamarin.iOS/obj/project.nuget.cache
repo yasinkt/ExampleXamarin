@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "EP743Y2cLMWb+/dMS3gmPohyOsvziV4jaR6eneVQsx5CMtCxWkZbb/RdwsIUo7nvqYp0w/xfDS83O69ZOfHCUQ==",
+  "success": true,
+  "projectFilePath": "/Users/kadiraltintop/Projects/ExampleXamarin/ExampleXamarin/ExampleXamarin.iOS/ExampleXamarin.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/kadiraltintop/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/kadiraltintop/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/kadiraltintop/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

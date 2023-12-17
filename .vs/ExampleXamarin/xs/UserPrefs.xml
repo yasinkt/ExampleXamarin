@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D39BFA19-2CC7-48BD-BDFD-E1A2CB5F719C}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="Android.6DVWVS6XY5N7DIPV" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExampleXamarin/ExampleXamarin/MainPage.xaml">
+    <Files>
+      <File FileName="ExampleXamarin/ExampleXamarin/MainPage.xaml.cs" />
+      <File FileName="ExampleXamarin/ExampleXamarin/MainPage.xaml" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExampleXamarin" expanded="True">
+            <Node name="ExampleXamarin" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ExampleXamarin FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.ExampleXamarin.iOS FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ExampleXamarin.Android FirstBuild="True" PreferredExecutionTarget="Android.6DVWVS6XY5N7DIPV" />
+</Properties>

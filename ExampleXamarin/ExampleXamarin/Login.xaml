@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ExampleXamarin.Login">
+
+    <StackLayout Margin="16,0,16,0">
+        
+        <Label 
+            Margin="0,16,0,0"
+            Text="Login"
+            FontAttributes="Bold"
+            FontSize="18"
+            HorizontalOptions="CenterAndExpand" />
+            
+        
+        <Entry
+            x:Name="UserName"
+            Margin="0,16,0,0"
+            Placeholder="Kullanıcı Adı"
+            HorizontalOptions="FillAndExpand"
+        ></Entry>
+            
+        <Entry
+            x:Name="Pass"
+            Margin="0,16,0,0"
+            IsPassword="True"
+            Placeholder="Şifre"
+            HorizontalOptions="FillAndExpand"
+        ></Entry>
+
+
+        <Button
+            x:Name="btnLogin"
+            Text="Giriş yap"
+            Margin="0,16,0,0"
+            HorizontalOptions="FillAndExpand"></Button>
+
+            
+    </StackLayout>
+
+</ContentPage>
+
